@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799299935408",
+    "firebase_url": "https://bmg-store-d6417.firebaseio.com",
+    "project_id": "bmg-store-d6417",
+    "storage_bucket": "bmg-store-d6417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799299935408:android:7af170c312c586e0",
+        "android_client_info": {
+          "package_name": "in.bmgstore.bmgstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799299935408-cv07qn4fqh196v6aqreehns89obteubi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.bmgstore.bmgstore",
+            "certificate_hash": "54682c7d5b62d3aa48a8f1d8e2b709b9c64b0ae0"
+          }
+        },
+        {
+          "client_id": "799299935408-8sb9ijdsbrikq5flfhke1jlngr90v5cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnjRCQ8CRZnGzw0UB0nDMGgabfgZxsWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799299935408-8sb9ijdsbrikq5flfhke1jlngr90v5cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
